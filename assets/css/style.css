@@ -1,0 +1,67 @@
+body,
+html {
+ color: #fff;
+ font-size: 20px;
+ background-color: black;
+ font-family: cursive;
+
+}
+
+header {
+padding: 10px;
+}
+
+.heading {
+}
+
+.good {
+    display: inline-block;
+}
+
+.dash:after {
+    content: '_';
+}
+
+.bad {
+    display: none;
+}
+
+#countryinfo .bad {
+    display: none;
+}
+
+span.shade {
+    background-color: lightgray;
+}
+
+.gray
+{
+    background-color: lightgray;
+}
+
+.letter-styling.gray {
+    background-color: darkgray;;
+}
+
+.letter-styling {
+    letter-spacing: 30px;
+    background-color: #fff;
+    margin: 5px;
+    border-radius: 5px;
+    padding: 6px;
+}
+
+.main-container {
+    
+}
+
+.game-box {
+    border: 1px dashed #fff;
+    padding: 40px;
+}
+
+.li-placeholders {
+    display: inline-block;
+    letter-spacing: 20px;
+    padding: 5px;
+}
