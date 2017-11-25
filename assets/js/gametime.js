@@ -18,7 +18,7 @@
                        {Country:'AFGHANISTAN', fact: 'National game is "goat-grabbing"', population: '35,854,259', image: './assets/images/flag-of-Afghanistan.png'},
                        {Country:'ALBANIA', fact: 'Capital: Tirana', population: '2,934,363', image: './assets/images/flag-of-Albania.png'},
                        {Country:'ALGERIA', fact: 'Famous for its dry Sahara desert, which takes up most of the country.', population: '41,584,336', image: './assets/images/flag-of-Algeria.png'},
-                       {Country:'ARGENTINA', fact: 'The country is famous for tango dance and music.', population: '44,688,864', image: './assets/images/flag-of-Argentina'},
+                       {Country:'ARGENTINA', fact: 'The country is famous for tango dance and music.', population: '44,688,864', image: './assets/images/flag-of-Argentina.png'},
                        {Country:'AUSTRALIA', fact: 'Driest of any continent on earth other than Antarctica.', population: '24,573,145', image: './assets/images/flag-of-Australia.png'},
                        {Country:'AZERBAIJAN', fact: 'Former Soviet republic.', population: '9,864,881', image: './assets/images/flag-of-Azerbaijan'},
                        {Country:'BELGIUM', fact: 'Country in Western Europe, is known for its medieval old towns, Flemish Renaissance architecture and international headquarters of the European Union and NATO.', population: '11,250,000', image: './assets/images/flag-of-Belgium.png'},
